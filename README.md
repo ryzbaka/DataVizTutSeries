@@ -1,5 +1,5 @@
 # DataVizTutSeries
 A series on data visualisation.
 
-**Contents**
+# Contents
 1.Hello, Seaborn
