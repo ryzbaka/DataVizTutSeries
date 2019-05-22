@@ -7,4 +7,5 @@ A series on data visualisation.
 2.<a href="https://github.com/ryzbaka/DataVizTutSeries/blob/master/Data%20Visualisation/Line%20Charts.ipynb">Line Charts</a>
 
 3.<a href="https://github.com/ryzbaka/DataVizTutSeries/blob/master/Data%20Visualisation/Bar%20Charts%20and%20Heatmaps.ipynb">Bar Graphs and Heatmaps</a>
+
 4.<a href="https://github.com/ryzbaka/DataVizTutSeries/blob/master/Data%20Visualisation/Scatter%20Plots.ipynb">Scatter Plots</a>
