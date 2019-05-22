@@ -9,3 +9,5 @@ A series on data visualisation.
 3.<a href="https://github.com/ryzbaka/DataVizTutSeries/blob/master/Data%20Visualisation/Bar%20Charts%20and%20Heatmaps.ipynb">Bar Graphs and Heatmaps</a>
 
 4.<a href="https://github.com/ryzbaka/DataVizTutSeries/blob/master/Data%20Visualisation/Scatter%20Plots.ipynb">Scatter Plots</a>
+
+5.<a href="https://github.com/ryzbaka/DataVizTutSeries/blob/master/Data%20Visualisation/Distributions.ipynb">Distribution Plots</a>
